@@ -1,0 +1,6 @@
+framework module Pods_postyTests {
+  umbrella header "Pods-postyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
